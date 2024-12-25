@@ -1,0 +1,12 @@
+== InfiniGen ==
+opt-13b alpha 4.0 budget 0.2
+No file exists at ../transformers/src/transformers/models/opt
+llama-2 alpha 5.2 budget 0.2
+No file exists at ../transformers/src/transformers/models/llama
+===============
+==    H2O   ==
+opt-13b heavy 0.01875 recent 0.01875
+No file exists at ../transformers/src/transformers/models/opt
+llama-2-13b heavy 0.01875 recent 0.01875
+No file exists at ../transformers/src/transformers/models/llama
+===============

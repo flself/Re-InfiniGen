@@ -1,0 +1,31 @@
+WARNING: provide_description is deprecated and will be removed in a future version in favor of description_dict
+Running loglikelihood requests
+Finished
+The repository for winogrande contains custom code which must be executed to correctly load the dataset. You can inspect the repository content at https://hf.co/datasets/winogrande.
+You can avoid this prompt in future by passing the argument `trust_remote_code=True`.
+
+Do you wish to run the custom code? [y/N] The repository for super_glue contains custom code which must be executed to correctly load the dataset. You can inspect the repository content at https://hf.co/datasets/super_glue.
+You can avoid this prompt in future by passing the argument `trust_remote_code=True`.
+
+Do you wish to run the custom code? [y/N] WARNING: provide_description is deprecated and will be removed in a future version in favor of description_dict
+Running loglikelihood requests
+Finished
+No file exists at ../transformers/src/transformers/models/opt
+No file exists at ../transformers/src/transformers/models/opt
+No file exists at ../transformers/src/transformers/models/opt
+No file exists at ../transformers/src/transformers/models/opt
+No file exists at ../transformers/src/transformers/models/opt
+No file exists at ../transformers/src/transformers/models/opt
+========== Full cache ==========
+bash full_cache.sh piqa facebook/opt-6.7b opt 5
+-------------------------------------------
+bash full_cache.sh openbookqa facebook/opt-6.7b opt 5
+-------------------------------------------
+bash full_cache.sh winogrande facebook/opt-13b opt 5
+-------------------------------------------
+bash full_cache.sh openbookqa facebook/opt-13b opt 5
+-------------------------------------------
+bash full_cache.sh copa facebook/opt-30b opt 5
+-------------------------------------------
+bash full_cache.sh openbookqa facebook/opt-30b opt 5
+-------------------------------------------

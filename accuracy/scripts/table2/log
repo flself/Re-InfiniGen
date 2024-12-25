@@ -1,0 +1,80 @@
+opt-6.7b wikitext2 100% cache
+No file exists at ../transformers/src/transformers/models/opt
+opt-6.7b ptb 100% cache
+No file exists at ../transformers/src/transformers/models/opt
+opt-13b wikitext2 100% cache
+No file exists at ../transformers/src/transformers/models/opt
+opt-13b ptb 100% cache
+No file exists at ../transformers/src/transformers/models/opt
+opt-30b wikitext2 100% cache
+No file exists at ../transformers/src/transformers/models/opt
+opt-30b ptb 100% cache
+No file exists at ../transformers/src/transformers/models/opt
+opt-6.7b wikitext2 80% cache evict fifo
+No file exists at ../transformers/src/transformers/models/opt
+opt-6.7b wikitext2 80% cache evict lru
+No file exists at ../transformers/src/transformers/models/opt
+opt-6.7b wikitext2 80% cache evict counter
+No file exists at ../transformers/src/transformers/models/opt
+opt-6.7b ptb 80% cache evict fifo
+No file exists at ../transformers/src/transformers/models/opt
+opt-6.7b ptb 80% cache evict lru
+No file exists at ../transformers/src/transformers/models/opt
+opt-6.7b ptb 80% cache evict counter
+No file exists at ../transformers/src/transformers/models/opt
+opt-13b wikitext2 80% cache evict fifo
+No file exists at ../transformers/src/transformers/models/opt
+opt-13b wikitext2 80% cache evict lru
+No file exists at ../transformers/src/transformers/models/opt
+opt-13b wikitext2 80% cache evict counter
+No file exists at ../transformers/src/transformers/models/opt
+opt-13b ptb 80% cache evict fifo
+No file exists at ../transformers/src/transformers/models/opt
+opt-13b ptb 80% cache evict lru
+No file exists at ../transformers/src/transformers/models/opt
+opt-13b ptb 80% cache evict counter
+No file exists at ../transformers/src/transformers/models/opt
+opt-30b wikitext2 80% cache evict fifo
+No file exists at ../transformers/src/transformers/models/opt
+opt-30b wikitext2 80% cache evict lru
+No file exists at ../transformers/src/transformers/models/opt
+opt-30b wikitext2 80% cache evict counter
+No file exists at ../transformers/src/transformers/models/opt
+opt-30b ptb 80% cache evict fifo
+No file exists at ../transformers/src/transformers/models/opt
+opt-30b ptb 80% cache evict lru
+No file exists at ../transformers/src/transformers/models/opt
+opt-30b ptb 80% cache evict counter
+No file exists at ../transformers/src/transformers/models/opt
+llama-2-7b wikitext2 100% cache
+No file exists at ../transformers/src/transformers/models/llama
+llama-2-7b ptb 100% cache
+No file exists at ../transformers/src/transformers/models/llama
+llama-2-13b wikitext2 100% cache
+No file exists at ../transformers/src/transformers/models/llama
+llama-2-13b ptb 100% cache
+No file exists at ../transformers/src/transformers/models/llama
+llama-2-7b wikitext2 80% cache evict fifo
+No file exists at ../transformers/src/transformers/models/llama
+llama-2-7b wikitext2 80% cache evict lru
+No file exists at ../transformers/src/transformers/models/llama
+llama-2-7b wikitext2 80% cache evict counter
+No file exists at ../transformers/src/transformers/models/llama
+llama-2-7b ptb 80% cache evict fifo
+No file exists at ../transformers/src/transformers/models/llama
+llama-2-7b ptb 80% cache evict lru
+No file exists at ../transformers/src/transformers/models/llama
+llama-2-7b ptb 80% cache evict counter
+No file exists at ../transformers/src/transformers/models/llama
+llama-2-13b wikitext2 80% cache evict fifo
+No file exists at ../transformers/src/transformers/models/llama
+llama-2-13b wikitext2 80% cache evict lru
+No file exists at ../transformers/src/transformers/models/llama
+llama-2-13b wikitext2 80% cache evict counter
+No file exists at ../transformers/src/transformers/models/llama
+llama-2-13b ptb 80% cache evict fifo
+No file exists at ../transformers/src/transformers/models/llama
+llama-2-13b ptb 80% cache evict lru
+No file exists at ../transformers/src/transformers/models/llama
+llama-2-13b ptb 80% cache evict counter
+No file exists at ../transformers/src/transformers/models/llama
